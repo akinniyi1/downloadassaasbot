@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akinniyi1.github.io/downloadassaasbot/sitemap.xml
